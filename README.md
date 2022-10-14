@@ -1,6 +1,6 @@
 # Whats this for
 
-Its a quick data profiling based on a data-in folder
+Its a quick data profiling based on a data-in folder, based on the amazing tool Pandas Profiling.
 
 # Check
 
